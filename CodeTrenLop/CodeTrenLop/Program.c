@@ -36,7 +36,7 @@ void lapChucNang(int chonChucNang)
 
 int main()
 {
-    int chonChucNang;
+	int chonChucNang;
 	do
 	{
 		printf("Menu");
